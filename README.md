@@ -84,7 +84,9 @@ if (money >= 3000) {
 ### Switch/case 문
 
 > switch/case문은 if문과 비슷하지만 더정형화됨 파이썬에는 없음
-> - switch/case문의 구조
+
+
+- switch/case문의 구조
 ```
 switch(입력변수) {
     case 입력값1: ...
