@@ -1,7 +1,7 @@
 # javareview1
 
 
-### if 문 
+### IF 문 
 
 ## 기본예시
 
